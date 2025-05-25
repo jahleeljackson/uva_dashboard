@@ -4,7 +4,7 @@
      alt="UVA Dashboard PNG"
      style="width: 500px;" />
 
-To view a demo, click [here]().
+To actually interact with the dashboard, click [here](https://uva-dashboard.onrender.com).
 
 ## Description
 
