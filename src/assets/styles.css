@@ -1,0 +1,73 @@
+/*
+UVA COLORS: 
+blue = #222b4c
+orange = #f84c1e
+
+UVA FONTS: 
+Adobe Caslon 
+Franklin Gothic
+Bodoni
+*/
+
+body {
+    background-color: #222b4c;
+}
+.dashboard-title {
+    font-family: 'Franklin Gothic';
+    font-size: 70px;
+    text-align: center;
+    color: #f84c1e;
+}
+
+#tuition-slider {
+    width: 600px;
+    position: absolute;
+    left: 108px;
+    top: 685px;
+    font-family: 'Franklin Gothic';
+    color: #f84c1e;
+}
+
+#class-filter {
+    width: 150px;
+    position: absolute;
+    left: 1500px;
+    top: 264px;
+    font-family: 'Franklin Gothic';
+}
+
+#class-grade-fig {
+    position: absolute;
+    left: 900px;
+    top: 185px;
+}
+
+#school-hist {
+    position: absolute;
+    top: 800px;
+}
+
+#school-filter {
+    width: 500px;
+    position: absolute;
+    top: 875px;
+    left: 125px;
+    font-family: 'Franklin Gothic';
+}
+
+
+#demographic-radio {
+    position: absolute;
+    top: 825px;
+    left: 930px;
+    z-index: 10;
+    color: #f84c1e;
+    font-family: 'Franklin Gothic';
+    font-size: 15px;
+}
+
+#demographics-fig {
+    position: absolute;
+    top: 800px;
+    left: 875px;
+}
