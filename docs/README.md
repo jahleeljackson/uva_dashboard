@@ -51,7 +51,7 @@ pip install pandas dash plotly
 2. Clone this repository.
 3. Navigate to directory path in your CLI, ie.
 ```bash
-jahleeljackson/Projects/dashboard_project
+jahleeljackson/Projects/dashboard_project/src
 ```
 4. Run app with 'python3 app.py' or 'python app.py' depending on your python version.
 5. Enter [http://127.0.0.1:8050/](http://127.0.0.1:8050/) in browser.
